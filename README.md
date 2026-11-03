@@ -57,12 +57,12 @@ O código completo está no arquivo `index.html`. Ele contém comentários expli
 
 ### Código comentado no Visual Studio Code
 
-![Código HTML comentado](prints/codigo-comentado.png)
+![Código comentado](codigo-comentado.png)
 
-### Execução da página no navegador — parte 1
+### Execução da página — parte 1
 
-![Execução da página - parte 1](prints/execucao-parte-1.png)
+![Execução parte 1](execucao-parte-1.png)
 
-### Execução da página no navegador — parte 2
+### Execução da página — parte 2
 
-![Execução da página - parte 2](prints/execucao-parte-2.png)
+![Execução parte 2](execucao-parte-2.png)
