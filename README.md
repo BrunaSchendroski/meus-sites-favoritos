@@ -9,10 +9,13 @@ Página desenvolvida em HTML para apresentar cinco sites favoritos. Cada site po
 
 ## Tecnologias utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-estrutura da página-orange?logo=html5&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/Projeto-GitHub-black?logo=github&logoColor=white)
+## Tecnologias utilizadas
 
+![HTML5](https://img.shields.io/badge/HTML5-estrutura-orange?logo=html5&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?logo=visualstudiocode&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/Projeto-GitHub-black?logo=github&logoColor=white)
 O projeto utiliza somente HTML, sem CSS, conforme solicitado.
 
 ## Sites apresentados
